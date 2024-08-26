@@ -7,11 +7,7 @@ A API gerencia postagens fictícias do LinkedIn, permitindo operações de cria�
 - Express
 - Insomnia (para testar a API)
 
-# O que estudei nesta semana 📚 
-Nesta semana, aprofundei meus conhecimentos em Node.js e Express, com foco na construção de APIs. Estudei como implementar os métodos HTTP principais, como GET, POST, DELETE e PATCH/PUT, e como manipular dados em memória. Além disso, pratiquei testes de API usando o Insomnia para garantir que a aplicação funcione corretamente.
-
-# Testes devem ser realizados no Insomnia/Postman: 🧪
-
+# Testes realizados no Insomnia: 🧪
 
 Print - criar um postagem:
 
@@ -40,4 +36,8 @@ Print - excluir uma postagem específica:
 
 Print - checagem de exclusão de postagem específica:
 ![Verificando delete específico](https://github.com/user-attachments/assets/7f649f87-20c8-49da-9c06-75dc5666c550)
+
+
+# O que estudei nesta semana 📚 
+Nesta semana, aprofundei meus conhecimentos em Node.js e Express, com foco na construção de APIs. Estudei como implementar os métodos HTTP principais, como GET, POST, DELETE e PATCH/PUT, e como manipular dados em memória. Além disso, pratiquei testes de API usando o Insomnia para garantir que a aplicação funcione corretamente.
 
